@@ -9,3 +9,6 @@ This is to test the deletion and renaming of files.
 4) Test Deleting file while write (fails)
 
 ### The results are  captured [here in this image](https://github.com/maquebax/FileRenameDeleteTest/blob/master/OpenFileTestResults.png)
+
+Ref
+https://docs.microsoft.com/en-us/windows/desktop/fileio/closing-and-deleting-files   
