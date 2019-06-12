@@ -1,6 +1,6 @@
 # FileRenameDeleteTest
 
-This is to test the deletion and renaming of files.
+This is to test the simultaneous deletion and renaming of files.
 
 ## TestCases
 1) Test Renaming file while read (success)
